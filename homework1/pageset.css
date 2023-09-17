@@ -1,0 +1,124 @@
+#box1{
+    height: 800px;
+    width:1450px;
+    background-color: aquamarine;
+    margin: 0 auto;
+
+}
+/*page1结束*/
+#box2{
+    height: 200px;
+    width: 1450px;
+    background-color: turquoise;
+    margin: 0 auto;
+}
+#box3{
+    height: 500px;
+    width: 1450px;
+    background-color: bisque;
+    margin: 0 auto;
+}
+#box4{
+    height: 100px;
+    width: 1450px;
+    background-color: turquoise;
+    margin: 0 auto;
+}
+/*page2结束*/
+#contianer{
+    background-size:contain;
+    position: absolute;
+}
+/*自适应页面大小*/
+#box5{
+    height:800px ;
+    width: 350px;
+    background-color: turquoise;
+    position: absolute;
+}
+#box6{
+    height: 800px;
+    width: 1100px;
+    background-color: bisque;
+    position: absolute;
+    left: 350px;  
+}
+/*page3结束*/
+#box7{
+    height: 200px;
+    width: 1450px;
+    background-color: turquoise;
+    position: absolute;
+}
+#box8{
+    height:500px ;
+    width: 350px;
+    background-color: rgb(75, 169, 133);
+    position: absolute;
+    top: 200px;
+}
+#box9{
+    height: 500px;
+    width: 1100px;
+    background-color: rgba(43, 78, 74, 0.823);
+    position: absolute;
+    left: 350px;
+    top: 200px;  
+}
+#box10{
+    height: 100px;
+    width: 1450px;
+    background-color: turquoise;
+    position: absolute;
+    top: 700px;
+}
+/*page4结束*/
+#box11{
+    height: 200px;
+    width: 1450px;
+    background-color: turquoise;
+    position: absolute;
+}
+#box12{
+    height: 150px;
+    width: 1450px;
+    background-color: rgb(38, 95, 126);
+    position: absolute;
+    top: 200px;
+}
+#box13{
+    height:350px;
+    width: 400px;
+    background-color: rgb(75, 169, 133);
+    position: absolute;
+    top: 350px;
+}
+#box14{
+    height: 350px;
+    width: 750px;
+    background-color: rgba(43, 78, 74, 0.823);
+    position: absolute;
+    top: 350px; 
+    left: 400px; 
+}
+#box15{
+    height:350px ;
+    width: 400px;
+    background-color: rgb(75, 169, 133);
+    position:absolute;
+    top: 350px;
+    left: 1050px;
+}
+#box16{
+    height: 100px;
+    width: 1450px;
+    background-color: turquoise;
+    position: absolute;
+    top: 700px;
+}
+/*page5结束*/
+#pagegroup{
+    position:absolute;
+    top:810px ;
+}
+/*通过定位，设置外部链接*/
